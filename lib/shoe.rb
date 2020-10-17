@@ -1,2 +1,2 @@
-class Shoe 
-end 
+class Shoe
+end
